@@ -1,0 +1,15 @@
+button {
+cursor:pointer;
+border-radius: 50px;
+width: 28%;
+font-size: 18px;
+margin: 30px;
+}
+
+button:hover {
+    align-items: center;
+    color:rgb(24, 160, 69);
+
+}
+
+
